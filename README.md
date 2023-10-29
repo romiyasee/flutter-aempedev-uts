@@ -1,7 +1,7 @@
 # AEMPEDEV
 # Flutter Mobile App
 
-![image.png]( {assets/images/login1.jpg} )
+![image.jpg]( {assets/images/login1.jpg} )
 
 
 
