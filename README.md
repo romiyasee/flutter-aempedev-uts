@@ -3,6 +3,8 @@
 
 ![image.jpg]( {assets/images/login1.jpg} )
 
+<img src="assets/images/login1.jpg">
+
 
 
 
