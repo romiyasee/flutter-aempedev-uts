@@ -2,7 +2,7 @@
 # Flutter Mobile App
 
 
-<img src="assets/images/login1.jpg" width="50px">
+<img src="assets/images/login1.jpg" width="500px">
 
 
 
