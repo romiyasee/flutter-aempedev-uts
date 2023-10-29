@@ -7,6 +7,9 @@
 ### Dashboard
 <img src="assets/images/dashboard.jpg" width="300px">
 
+### Profile
+<img src="assets/images/profil2.jpg" width="300px">
+
 ### Course
 <img src="assets/images/kursus 1.jpg" width="300px">
 
