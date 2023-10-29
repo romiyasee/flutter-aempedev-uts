@@ -8,7 +8,7 @@
 <img src="assets/images/dashboard.jpg" width="300px">
 
 ### Course
-<img src="assets/images/kursus.jpg" width="300px">
+<img src="assets/images/kursus 1.jpg" width="300px">
 
 
 
