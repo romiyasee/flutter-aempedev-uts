@@ -1,4 +1,4 @@
-# AEMPEDEV UI
+# AEMPEDEV APP UI
 # Flutter Mobile App
 
 ### Login Page
@@ -13,13 +13,6 @@
 ### Course
 <img src="assets/images/kursus 1.jpg" width="300px">
 
-
-
-
-
-A new Flutter project.
-
-## Getting Started
 
 This project is a starting point for a Flutter application.
 
